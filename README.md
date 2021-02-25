@@ -1,3 +1,6 @@
+# Abandoned!
+This plugin is no longer actively supported.
+
 # OctoPrint-EEprom-Marlin-Printrbot
 
 This plugin is designed to get, change and save the values in the Eeprom of your Printrbot variation of Marlin Firmware based Machine.
